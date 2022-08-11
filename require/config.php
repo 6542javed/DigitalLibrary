@@ -1,3 +1,3 @@
 <?php
-$connect = new mysqli("localhost","root","","Axrzc4OTiH");
+$connect = new mysqli("remotemysql.com","Axrzc4OTiH","t9DwUrLpiV","Axrzc4OTiH");
 ?>
